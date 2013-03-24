@@ -1,9 +1,9 @@
-NinjaBB Forum Application
+ninjaBB Forum Software
 ====
 
-What is NinjaBB?
+What is ninjaBB?
 ====
-NinjaBB is a Free and Open Source Forum Application. It is designed to be as fast as it can be, modern, beautiful designed,
+ninjaBB is a Free and Open Source Forum Software. It is designed to be as fast as it can be, modern, beautiful designed,
 user-friendly and very very extensible.
 
 On what stage is it?
